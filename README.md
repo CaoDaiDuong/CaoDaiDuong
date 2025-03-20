@@ -24,7 +24,7 @@
     <h2>Sản phẩm nổi bật</h2>
     <div class="product">
         <img src="duongdan/den/anh/sanpham1.jpg" alt="Sản phẩm 1">
-        <h3>Tên sản phẩm 1</h3>
+        <h3> "Quạt" 1</h3>
         <p>Mô tả ngắn về sản phẩm 1.</p>
     </div>
     <div class="product">
